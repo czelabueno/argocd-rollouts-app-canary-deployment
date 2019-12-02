@@ -8,4 +8,4 @@ resources:
 - app/service-v1.yaml
 images:
 - name: alexmt/rollouts-demo #Tomado app demo del dockerhub de Alexmt 
-  newTag: red
+  newTag: green
